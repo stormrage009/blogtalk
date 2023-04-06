@@ -1,0 +1,14 @@
+{
+  "origins": [
+    "https://giscus.app",
+    "https://giscus.vercel.app",
+    "https://agou-ops.cn"
+  ],
+  "originsRegex": [
+    "https://giscus-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
+    "http://localhost:[0-9]+",
+    "https://agou-ops.cn",
+    "https://agou-ops.cn/*"
+  ],
+  "defaultCommentOrder": "oldest"
+}
