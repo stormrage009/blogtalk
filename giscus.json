@@ -1,8 +1,6 @@
 {
   "origins": [
-    "https://giscus.app",
-    "https://giscus.vercel.app",
-    "https://agou-ops.cn"
+    "https://stromrage.netlify.app/"
   ],
   "originsRegex": [
     "https://giscus-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
